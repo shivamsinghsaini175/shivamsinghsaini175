@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shivam 👋
 
-<!--
-**shivamsinghsaini175/shivamsinghsaini175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer at HDFC Life
 
-Here are some ideas to get you started:
+I build scalable backend applications using Java, Spring Boot, Apache Kafka, PostgreSQL, and Microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* Java
+* Spring Boot
+* Apache Kafka
+* PostgreSQL
+* MongoDB
+* Apache Camel
+* IBM MQ
+* Docker
+* AWS S3
+
+## Featured Projects
+
+### IntelliClaim
+
+Insurance Claim Processing Platform using Spring Boot, Kafka, Apache Camel, IBM MQ, PostgreSQL, and Keycloak.
+
+### CodeSage
+
+AI-Powered Repository Intelligence Platform using Spring AI, Kafka, PostgreSQL, pgvector, and JGit.
+
+## Currently Learning
+
+* Distributed Systems
+* System Design
+* Spring AI
+* Event-Driven Architecture
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/shivam-saini-248158236
